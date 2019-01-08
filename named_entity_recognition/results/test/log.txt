@@ -1,0 +1,64 @@
+2017-11-23 10:02:54,182:INFO: Initializing tf session
+2017-11-23 10:03:00,684:INFO: Epoch 1 out of 1
+2017-11-23 10:07:40,662:INFO: acc 97.41 - f1 97.08
+2017-11-23 10:08:24,254:INFO: Initializing tf session
+2017-11-23 10:08:31,232:INFO: Epoch 1 out of 1
+2017-11-23 10:13:28,141:INFO: acc 97.79 - f1 97.05
+2017-11-23 10:18:01,539:INFO: Initializing tf session
+2017-11-23 10:18:08,106:INFO: Epoch 1 out of 1
+2017-11-23 10:22:43,514:INFO: acc 97.25 - f1 96.65
+2017-11-23 10:27:35,886:INFO: Initializing tf session
+2017-11-23 10:27:42,280:INFO: Epoch 1 out of 1
+2017-11-23 10:32:22,558:INFO: acc 96.79 - f1 96.29
+2017-11-23 10:32:25,503:INFO: - new best score!
+2017-11-23 10:37:42,302:INFO: Initializing tf session
+2017-11-23 10:37:49,056:INFO: Epoch 1 out of 1
+2017-11-23 10:45:24,372:INFO: Initializing tf session
+2017-11-23 10:45:27,150:INFO: Epoch 1 out of 1
+2017-11-23 10:47:40,230:INFO: f1 92.28 - acc 94.63
+2017-11-23 10:47:41,753:INFO: - new best score!
+2017-11-23 11:26:08,455:INFO: Initializing tf session
+2017-11-23 11:26:09,280:INFO: Reloading the latest trained model...
+2017-11-23 11:26:09,280:INFO: Restoring parameters from results/test/model.weights/
+2017-11-23 11:31:54,181:INFO: Initializing tf session
+2017-11-23 11:31:57,055:INFO: Epoch 1 out of 1
+2017-11-23 11:34:17,126:INFO: f1 92.77 - acc 94.59
+2017-11-23 11:34:22,055:INFO: - new best score!
+2017-11-23 11:45:18,574:INFO: Initializing tf session
+2017-11-23 11:45:19,371:INFO: Reloading the latest trained model...
+2017-11-23 11:45:19,371:INFO: Restoring parameters from results/test/model.weights/
+2017-11-23 11:45:19,498:INFO: Testing model over test set
+2017-11-23 11:45:22,120:INFO: f1 94.04 - acc 95.56
+2017-11-23 11:45:22,120:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2017-11-23 11:46:21,242:INFO: STATE        I_STATE I_STATE I_STATE I_STATE POSTAL POSTAL 
+2017-11-23 11:46:21,242:INFO: commonwealth of      the     norhern mariana islans 11     
+2017-11-23 11:46:38,463:INFO: I_STATE      I_STATE I_STATE I_STATE I_STATE POSTAL POSTAL CITY   I_CITY  
+2017-11-23 11:46:38,463:INFO: commonwealth of      the     norhern mariana islans 11379  middle village 
+2017-11-23 11:46:48,932:INFO: I_STATE      I_STATE I_STATE I_STATE I_STATE POSTAL CITY   I_CITY  POSTAL 
+2017-11-23 11:46:48,932:INFO: commonwealth of      the     norhern mariana islans middle village 145789 
+2017-11-23 11:47:15,115:INFO: CITY   I_CITY  I_STATE      I_STATE I_STATE I_STATE   I_STATE I_STATE POSTAL 
+2017-11-23 11:47:15,115:INFO: middle village commonwealth of      the     northerns mariana islands 154477 
+2019-01-06 18:04:12,232:INFO: Initializing tf session
+2019-01-06 18:04:12,694:INFO: Epoch 1 out of 1
+2019-01-06 18:14:37,957:INFO: acc 99.66 - f1 99.41
+2019-01-06 18:14:39,802:INFO: - new best score!
+2019-01-06 18:29:12,846:INFO: Initializing tf session
+2019-01-06 18:29:13,062:INFO: Reloading the latest trained model...
+2019-01-06 18:29:13,062:INFO: Restoring parameters from results/test/model.weights/
+2019-01-06 18:29:13,132:INFO: Testing model over test set
+2019-01-06 18:32:33,364:INFO: acc 99.68 - f1 99.45
+2019-01-06 18:32:33,364:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2019-01-06 18:39:07,065:INFO: 12477  kansas saugerties 
+2019-01-06 18:39:07,065:INFO: POSTAL STATE  CITY       
+2019-01-06 18:39:22,584:INFO: new   york    new  york   
+2019-01-06 18:39:22,585:INFO: STATE I_STATE CITY I_CITY 
+2019-01-06 18:41:32,000:INFO: saugerties 12447  kansas 
+2019-01-06 18:41:32,001:INFO: CITY       POSTAL STATE  
